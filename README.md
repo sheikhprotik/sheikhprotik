@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=wpz" width="400" alt="Sheikh Protik's Dev Card"/></a>
+
 - 🌱 I’m currently learning **javascript, react**
 
 - 💬 Ask me about **html,css,bootstrap,tailwind,javascript**
-
-<a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=wpz" width="400" alt="Sheikh Protik's Dev Card"/></a>
 
 - 📫 How to reach me **sheikhprotik@gmail.com**
 
