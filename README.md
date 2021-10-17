@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **html,css,bootstrap,tailwind,javascript**
 
-- 📫 How to reach me **sheikhprotik@gmail.com**
-
 <a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=wpz" width="400" alt="Sheikh Protik's Dev Card"/></a>
+
+- 📫 How to reach me **sheikhprotik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
