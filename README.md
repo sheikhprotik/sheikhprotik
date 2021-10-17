@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **sheikhprotik@gmail.com**
 
+<a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=wpz" width="400" alt="Sheikh Protik's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sheikhprotik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sheikhprotik" height="30" width="40" /></a>
